@@ -1,0 +1,45 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+
+namespace Datos
+{
+    public class TerritoriesDAO : DAO<Territories>
+    {
+        public override void Create(Territories t, string conStr)
+        {
+            base.Create(conStr,
+                "Insert into Territories (TerritoryID, TerritoryDescription, RegionID)VALUES ('"
+                + t.TerritoryID + "','"
+                + t.TerritoryDescription + "',"
+                + t.RegionID + ")");
+        }
+
+        public override List<Territories> GetList(string conStr)
+        {
+            List<Territories> regs = null;
+
+            OpenConection(conStr);
+
+            cmd.CommandText = "Select * from Territories";
+            SqlDataReader dr = cmd.ExecuteReader();
+            if (dr.HasRows)
+                regs = new List<Territories>();
+            while (dr.Read())
+            {
+                regs.Add(new Territories()
+                {
+                    TerritoryID = dr.GetString(0),
+                    TerritoryDescription = dr.GetString(1),
+                    RegionID = dr.GetInt32(2)
+                });
+            }
+
+            conn.Close();
+
+            return regs;
+        }
+    }
+}

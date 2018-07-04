@@ -1,0 +1,74 @@
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\ApplicationInsights.config
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\roslyn\csc.exe
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\roslyn\vbc.exe
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\roslyn\VBCSCompiler.exe
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Presentacion.dll.config
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Presentacion.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Presentacion.pdb
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Datos.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.Web.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.WindowsServer.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.ApplicationInsights.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Datos.pdb
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.Web.xml
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.WindowsServer.xml
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.ApplicationInsights.xml
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\obj\Debug\Presentacion.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Presentacion\obj\Debug\Presentacion.pdb
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\ApplicationInsights.config
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\roslyn\csc.exe
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\roslyn\vbc.exe
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\roslyn\VBCSCompiler.exe
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Presentacion.dll.config
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Presentacion.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Presentacion.pdb
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Datos.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.DependencyCollector.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.Web.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.WindowsServer.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.ApplicationInsights.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Datos.pdb
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.DependencyCollector.xml
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.Web.xml
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.AI.WindowsServer.xml
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.ApplicationInsights.xml
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\obj\Debug\Presentacion.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\obj\Debug\Presentacion.pdb
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Negocio.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Presentacion\bin\Negocio.pdb

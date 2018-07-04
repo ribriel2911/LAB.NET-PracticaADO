@@ -1,0 +1,9 @@
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Negocio\bin\Debug\Negocio.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Negocio\bin\Debug\Negocio.pdb
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Negocio\bin\Debug\Datos.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Negocio\bin\Debug\Datos.pdb
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.pdb

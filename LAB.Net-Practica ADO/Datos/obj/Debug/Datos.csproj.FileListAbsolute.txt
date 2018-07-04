@@ -1,0 +1,11 @@
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Datos\bin\Debug\Datos.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Datos\bin\Debug\Datos.pdb
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Datos\obj\Debug\Datos.dll
+c:\users\lab03\documents\visual studio 2015\Projects\LAB.Net-Practica ADO\Datos\obj\Debug\Datos.pdb
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Datos\bin\Debug\Datos.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Datos\bin\Debug\Datos.pdb
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Datos\obj\Debug\Datos.dll
+D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Datos\obj\Debug\Datos.pdb
