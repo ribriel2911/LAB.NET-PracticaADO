@@ -18,7 +18,7 @@
                 <label for="txtDescription">Description</label>
                 <asp:TextBox ID="txtDescription" runat="server" class="form-control" />
                 <label for="listRegion">Region</label>
-                <asp:DropDownList ID="listRegion" runat="server">
+                <asp:DropDownList ID="listRegion" runat="server" EventChanged="listRegion_EventChanged">
                 </asp:DropDownList>
                 <br />
             </div>

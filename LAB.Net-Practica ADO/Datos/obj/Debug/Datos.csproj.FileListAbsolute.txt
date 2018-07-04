@@ -9,3 +9,9 @@ D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Datos\obj\Debug\Datos.csprojAss
 D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
 D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Datos\obj\Debug\Datos.dll
 D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Datos\obj\Debug\Datos.pdb
+D:\Usuarios\Familia\Documents\GitHub\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Datos\bin\Debug\Datos.dll
+D:\Usuarios\Familia\Documents\GitHub\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Datos\bin\Debug\Datos.pdb
+D:\Usuarios\Familia\Documents\GitHub\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\Usuarios\Familia\Documents\GitHub\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Usuarios\Familia\Documents\GitHub\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Datos\obj\Debug\Datos.dll
+D:\Usuarios\Familia\Documents\GitHub\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Datos\obj\Debug\Datos.pdb

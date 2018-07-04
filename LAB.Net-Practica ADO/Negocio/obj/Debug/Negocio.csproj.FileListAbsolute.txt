@@ -14,3 +14,12 @@ C:\Users\LAB10\Desktop\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\bin\Debu
 C:\Users\LAB10\Desktop\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
 C:\Users\LAB10\Desktop\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.dll
 C:\Users\LAB10\Desktop\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.pdb
+D:\Usuarios\Familia\Documents\GitHub\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\bin\Debug\Negocio.dll
+D:\Usuarios\Familia\Documents\GitHub\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\bin\Debug\Negocio.pdb
+D:\Usuarios\Familia\Documents\GitHub\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\bin\Debug\Datos.dll
+D:\Usuarios\Familia\Documents\GitHub\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\bin\Debug\Datos.pdb
+D:\Usuarios\Familia\Documents\GitHub\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\Usuarios\Familia\Documents\GitHub\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Usuarios\Familia\Documents\GitHub\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Usuarios\Familia\Documents\GitHub\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.dll
+D:\Usuarios\Familia\Documents\GitHub\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.pdb

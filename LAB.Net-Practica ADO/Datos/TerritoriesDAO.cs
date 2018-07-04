@@ -10,7 +10,7 @@ namespace Datos
     {
         public override void Create(Territories t, string conStr)
         {
-                Create(conStr,
+                Comand(conStr,
                 "Insert into Territories (TerritoryID, TerritoryDescription, RegionID)VALUES ('"
                 + t.TerritoryID + "','"
                 + t.TerritoryDescription + "',"
@@ -44,7 +44,9 @@ namespace Datos
 
         public override void Delete(Territories t, string conStr)
         {
-            throw new NotImplementedException();
+            Comand(conStr,
+                "DELETE FROM Territories" +
+                "   WHERE  TerritoryID = '" + t.TerritoryID + "'");
         }
     }
 }

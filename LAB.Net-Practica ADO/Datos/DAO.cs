@@ -20,14 +20,20 @@ namespace Datos
             cmd.Connection = conn;
         }
 
-        protected void Create(String conStr, String cmdStr)
+        protected void Comand(String conStr, String cmdStr)
         {
-            OpenConection(conStr);
+            try{
+                OpenConection(conStr);
 
-            cmd.CommandText = cmdStr;
-            cmd.ExecuteNonQuery();
+                cmd.CommandText = cmdStr;
+                cmd.ExecuteNonQuery();
 
-            conn.Close();
+                conn.Close();
+            }
+
+            catch(Exception e)
+            {
+            }
         }
 
         public abstract void Create(T t, String conStr);

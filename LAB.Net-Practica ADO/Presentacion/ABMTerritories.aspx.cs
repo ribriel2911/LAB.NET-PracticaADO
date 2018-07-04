@@ -11,8 +11,17 @@ namespace Presentacion
 {
     public partial class ABMTerritories : System.Web.UI.Page
     {
-        static string connstr = System.Configuration.ConfigurationManager.ConnectionStrings["NorthwindEntities2"].ConnectionString;
-        SolverTerritories solver = new SolverTerritories(connstr);
+        string connstr;
+        SolverTerritories solver;
+
+        protected void Page_Init(object sender, EventArgs e)
+        {
+            connstr = System.Configuration.ConfigurationManager.ConnectionStrings["NorthwindEntities3"].ConnectionString;
+            solver = new SolverTerritories(connstr);
+
+            CargarGrilla();
+            Limpiar();
+        }
 
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -23,9 +32,6 @@ namespace Presentacion
         {
             solver.CargarTerritories();
 
-            this.listRegion.DataSource = solver.GetRegiones;
-            this.listRegion.DataBind();
-
             this.Grid1.DataSource = solver.GetTeritories;
             this.Grid1.DataBind();
         }
@@ -34,7 +40,7 @@ namespace Presentacion
         {
             solver.CrearTerritory(this.txtTerritoryId.Text,
                                   this.txtDescription.Text,
-                                  this.listRegion.SelectedValue.Trim());
+                                  this.listRegion.SelectedValue);
 
             Limpiar();
         }
@@ -46,7 +52,9 @@ namespace Presentacion
 
         protected void btnEliminar_Click(object sender, EventArgs e)
         {
+            solver.BorrarTerritory(this.txtTerritoryId.Text);
 
+            Limpiar();
         }
 
         protected void Grid1_SelectedIndexChanged(Object sender, EventArgs e)
@@ -60,6 +68,9 @@ namespace Presentacion
         {
             this.txtDescription.Text = "";
             this.txtTerritoryId.Text = "";
+
+            this.listRegion.DataSource = solver.GetRegiones;
+            this.listRegion.DataBind();
 
             CargarGrilla();
         }
