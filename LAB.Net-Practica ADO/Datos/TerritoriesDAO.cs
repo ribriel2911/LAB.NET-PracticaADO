@@ -45,8 +45,18 @@ namespace Datos
         public override void Delete(Territories t, string conStr)
         {
             Comand(conStr,
-                "DELETE FROM Territories" +
-                "   WHERE  TerritoryID = '" + t.TerritoryID + "'");
+                "DELETE FROM Territories " +
+                "WHERE  TerritoryID = '" + t.TerritoryID + "'");
+        }
+
+        public override void Update(Territories t, string conStr)
+        {
+            Comand(conStr,
+                "UPDATE Territories " +
+                "SET TerritoryID = '"+ t.TerritoryID + "', " +
+                   "TerritoryDescription = '" + t.TerritoryDescription + "', " +
+                   "RegionID = "+ t.RegionID +
+                " WHERE TerritoryID = '" + t.TerritoryID + "'");
         }
     }
 }

@@ -16,7 +16,7 @@ namespace Presentacion
 
         protected void Page_Init(object sender, EventArgs e)
         {
-            connstr = System.Configuration.ConfigurationManager.ConnectionStrings["NorthwindEntities3"].ConnectionString;
+            connstr = System.Configuration.ConfigurationManager.ConnectionStrings["NorthwindEntities2"].ConnectionString;
             solver = new SolverTerritories(connstr);
 
             CargarGrilla();
@@ -47,7 +47,11 @@ namespace Presentacion
 
         protected void btnModificar_Click(object sender, EventArgs e)
         {
+            solver.ModificarTerritory(this.txtTerritoryId.Text,
+                                      this.txtDescription.Text,
+                                      this.listRegion.SelectedValue);
 
+            Limpiar();
         }
 
         protected void btnEliminar_Click(object sender, EventArgs e)

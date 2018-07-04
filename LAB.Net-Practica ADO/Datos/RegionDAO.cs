@@ -20,8 +20,8 @@ namespace Datos
         public override void Delete(Region r, string conStr)
         {
             Comand(conStr,
-                "DELETE FROM Region" +
-                "   WHERE  RegionID = " + r.RegionID);
+                "DELETE FROM Region " +
+                "WHERE RegionID = " + r.RegionID);
         }
 
         public override List<Region> GetList(string conStr)
@@ -46,6 +46,14 @@ namespace Datos
             conn.Close();
 
             return regs;
+        }
+
+        public override void Update(Region r, string conStr)
+        {
+            Comand(conStr,
+                "UPDATE Region" +
+                "SET RegionDescription = '"+ r.RegionDescription + "'" +
+                "WHERE RegionID = "+ r.RegionID + ";");
         }
     }
 }

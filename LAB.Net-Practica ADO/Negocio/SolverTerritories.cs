@@ -42,7 +42,26 @@ namespace Negocio
             }
         }
 
-        public void CrearTerritory(String id, String description, String region){
+        public void ModificarTerritory(string id, string description, string region)
+        {
+            Region r = BuscarRegion(region);
+
+            Territories t = new Territories
+            {
+                TerritoryID = id,
+                TerritoryDescription = description,
+                RegionID = r.RegionID,
+
+                Region = r
+            };
+
+            r.Territories.Add(t);
+
+            dao.Update(t,connstr);
+            CargarTerritories();
+        }
+
+        public void CrearTerritory(string id, string description, string region){
 
             Region r = BuscarRegion(region);
 
