@@ -66,7 +66,7 @@ namespace Negocio
         {
             Region ret = null;
 
-            DataRow[] rows = regiones.Select("RegionDescription = " + description);
+            DataRow[] rows = regiones.Select(String.Format("RegionDescription='{0}'",description));
 
             if (rows.Length != 0)
             {
@@ -86,7 +86,7 @@ namespace Negocio
         {
             Region ret = null;
 
-            DataRow[] rows = regiones.Select("RegionID = " + id);
+            DataRow[] rows = regiones.Select(String.Format("RegionID='{0}'",id));
 
             if (rows.Length != 0)
             {

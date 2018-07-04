@@ -61,9 +61,40 @@ namespace Negocio
             CargarTerritories();
         }
 
+        public void BorrarTerritory(string valor)
+        {
+            Territories t = BuscarTerritory(valor);
+
+            dao.Delete(t, connstr);
+            CargarTerritories();
+        }
+
+        private Territories BuscarTerritory(string valor)
+        {
+            Territories ret = null;
+
+            DataRow[] rows = territories.Select(String.Format("TerritoryID='{0}'", valor));
+
+            if(rows == null) rows = territories.Select(String.Format("TerritoryDescription='{0}'", valor));
+
+            if (rows != null)
+            {
+                DataRow row = rows[0];
+
+                ret = new Territories()
+                {
+                    TerritoryID = (string) row["TerritoryID"],
+                    TerritoryDescription = (string) row["TerritoryDescription"],
+                    RegionID = (int) row["RegionID"],
+                    Region = solRegions.BuscarId((int)row["RegionID"])
+                };
+            }
+
+            return ret;
+        }
+
         private Region BuscarRegion(string region)
         {
-
             Region ret = solRegions.BuscarDescripcion(region);
 
             return ret;

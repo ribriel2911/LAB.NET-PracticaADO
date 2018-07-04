@@ -11,10 +11,15 @@ namespace Datos
     {
         public override void Create(Region r,string conStr)
         {
-            base.Create(conStr,
+               Create(conStr,
                "Insert into Region (RegionID, RegionDescription)VALUES (" 
                + r.RegionID + ",'"
                + r.RegionDescription + "')");
+        }
+
+        public override void Delete(Region t, string conStr)
+        {
+            throw new NotImplementedException();
         }
 
         public override List<Region> GetList(string conStr)

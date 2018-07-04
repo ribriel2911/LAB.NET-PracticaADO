@@ -6,7 +6,7 @@
 <head runat="server">
     <title>AMB Simple Entity Framework</title>
 
-    <link rel="stylesheet" href="https://bootswatch.com/3/journal/bootstrap.min.css"
+    <link rel="stylesheet" href="/bootstrap.css"
         integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 </head>
 <body>

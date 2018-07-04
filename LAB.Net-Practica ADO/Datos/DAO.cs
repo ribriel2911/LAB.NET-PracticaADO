@@ -32,6 +32,7 @@ namespace Datos
 
         public abstract void Create(T t, String conStr);
         public abstract List<T> GetList(string conStr);
+        public abstract void Delete(T t, string conStr);
 
     }
 }

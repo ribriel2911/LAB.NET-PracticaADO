@@ -7,3 +7,10 @@ D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Negocio\bin\Debug\Datos.pdb
 D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.dll
 D:\Usuarios\Familia\Desktop\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.pdb
+C:\Users\LAB10\Desktop\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\bin\Debug\Negocio.dll
+C:\Users\LAB10\Desktop\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\bin\Debug\Negocio.pdb
+C:\Users\LAB10\Desktop\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\bin\Debug\Datos.dll
+C:\Users\LAB10\Desktop\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\bin\Debug\Datos.pdb
+C:\Users\LAB10\Desktop\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\LAB10\Desktop\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.dll
+C:\Users\LAB10\Desktop\LAB.NET-PracticaADO\LAB.Net-Practica ADO\Negocio\obj\Debug\Negocio.pdb
