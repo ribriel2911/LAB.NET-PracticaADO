@@ -6,8 +6,7 @@
 <head runat="server">
     <title>AMB Simple Entity Framework</title>
 
-    <link rel="stylesheet" href="/bootstrap.css"
-        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="/bootstrap.css" />
 </head>
 <body>
     <form id="form1" runat="server">
